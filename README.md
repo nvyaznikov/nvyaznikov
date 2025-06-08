@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Nikita, a frontend developer 👨‍💻</div>  
+### <div align="center">I'm Nikita Vyaznikov, a frontend developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Weather APP](https://github.com/nvyaznikov/weather-app)  
