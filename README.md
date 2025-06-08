@@ -1,15 +1,13 @@
 
 ### <div align="center">I'm Nikita Vyaznikov, a frontend developer 👨‍💻</div>  
 
-  <br>
+
 
 - 🔭 I’m currently working on [Weather APP](https://github.com/nvyaznikov/weather-app)  
   
 
 - 🌱 I’m currently learning React and TS  
   
-
-<br>
 
 ## My Skill Set  
 <tr><td valign="top" width="33%">
